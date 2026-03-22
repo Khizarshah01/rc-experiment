@@ -1,0 +1,16 @@
+{
+    "id": "60f6302e-366e-4b61-8b2a-5d95448875a3",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Gemini CLI",
+        "homepage": "https://example.com",
+        "support": "support@example.com"
+    },
+    "name": "HiUserApp",
+    "nameSlug": "hiuserapp",
+    "classFile": "HiUserAppApp.ts",
+    "description": "Greets the user with their username when they run /hi",
+    "implements": []
+}

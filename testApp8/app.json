@@ -1,0 +1,16 @@
+{
+    "id": "fb5e085e-c2af-4e93-b67c-8f344942d301",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "RinX",
+        "homepage": "https://example.com",
+        "support": "support@example.com"
+    },
+    "name": "BitcoinPriceBot",
+    "nameSlug": "bitcoinpricebot",
+    "classFile": "BitcoinPriceBotApp.ts",
+    "description": "Provides the current Bitcoin price in INR.",
+    "implements": []
+}

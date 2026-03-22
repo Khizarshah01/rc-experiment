@@ -1,0 +1,15 @@
+{
+    "id": "d45f7f5a-4ddd-4220-b245-78a17d855fb9",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "test",
+        "homepage": "test",
+        "support": "test"
+    },
+    "name": "Greeting Bot",
+    "nameSlug": "greeting-bot",
+    "classFile": "TestApp.ts",
+    "description": "A simple bot that greets users when they say hello."
+}

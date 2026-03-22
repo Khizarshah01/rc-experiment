@@ -1,0 +1,15 @@
+{
+    "id": "70281c05-e75a-4b02-b1e2-ed982d274d6b",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.60.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "RC Apps User",
+        "homepage": "https://example.com",
+        "support": "user@example.com"
+    },
+    "name": "App Name",
+    "nameSlug": "app-name",
+    "classFile": "AppNameApp.ts",
+    "description": "App description"
+}

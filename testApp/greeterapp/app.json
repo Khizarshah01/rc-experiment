@@ -1,0 +1,18 @@
+{
+    "id": "c103b750-4f65-4a9e-beb5-54407c25a792",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "RinX",
+        "homepage": "https://github.com/RinX/rocketchat-greeter-app",
+        "support": "support@example.com"
+    },
+    "name": "GreeterApp",
+    "nameSlug": "greeterapp",
+    "classFile": "GreeterAppApp.ts",
+    "description": "A bot that greets every hello message.",
+    "implements": [
+        "IPostMessageSent"
+    ]
+}

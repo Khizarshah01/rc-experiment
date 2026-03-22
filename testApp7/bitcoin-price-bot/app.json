@@ -1,0 +1,16 @@
+{
+    "id": "816645a4-d7cc-4c6e-b780-00aa9218a379",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "RinX",
+        "homepage": "https://example.com",
+        "support": "support@example.com"
+    },
+    "name": "Bitcoin Price Bot",
+    "nameSlug": "bitcoin-price-bot",
+    "classFile": "BitcoinPriceBotApp.ts",
+    "description": "Provides current Bitcoin price via /bitcoin command",
+    "implements": []
+}

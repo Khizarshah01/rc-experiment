@@ -1,0 +1,21 @@
+{
+    "id": "e80a969e-192a-4168-98c5-bd6daff931d4",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "job",
+        "homepage": "jobn",
+        "support": "jobn"
+    },
+    "name": "job",
+    "nameSlug": "job",
+    "classFile": "JobApp.ts",
+    "description": "job",
+    "implements": [],
+    "permissions": [
+        {
+            "name": "scheduler"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "f7047786-dfca-4b9d-855f-b22e33a26981",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Gemini CLI",
+        "homepage": "https://github.com/example/greeting-app",
+        "support": "support@example.com"
+    },
+    "name": "Greeting App",
+    "nameSlug": "greeting-app",
+    "classFile": "GreetingAppApp.ts",
+    "description": "A bot that greets every hello message",
+    "implements": [
+        "IPostMessageSent"
+    ]
+}

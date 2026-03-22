@@ -1,0 +1,18 @@
+{
+    "id": "dce15483-12e1-4ba5-a856-3eadf3c33cd9",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "khizar",
+        "homepage": ".",
+        "support": "."
+    },
+    "name": "workshop",
+    "nameSlug": "workshop",
+    "classFile": "WorkshopApp.ts",
+    "description": "just workshop",
+    "implements": [
+        "IPostMessageSent"
+    ]
+}

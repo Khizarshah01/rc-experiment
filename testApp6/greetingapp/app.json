@@ -1,0 +1,18 @@
+{
+    "id": "0db87e28-2ed1-4ddd-89f9-cf7dc983c8e1",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Gemini CLI",
+        "homepage": "https://example.com",
+        "support": "support@example.com"
+    },
+    "name": "GreetingApp",
+    "nameSlug": "greetingapp",
+    "classFile": "GreetingAppApp.ts",
+    "description": "Greets users who say hello",
+    "implements": [
+        "IPostMessageSent"
+    ]
+}
