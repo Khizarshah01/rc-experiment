@@ -1,0 +1,18 @@
+{
+    "id": "28e99f63-2a7d-484f-8e02-f830b263528d",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Gemini CLI",
+        "homepage": "https://example.com",
+        "support": "support@example.com"
+    },
+    "name": "EchoBot",
+    "nameSlug": "echobot",
+    "classFile": "EchoBotApp.ts",
+    "description": "An app that echoes back messages starting with echo",
+    "implements": [
+        "IPostMessageSent"
+    ]
+}
