@@ -1,0 +1,15 @@
+{
+    "id": "383b3c1f-8793-4016-8530-95ed25e81d9a",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "khizar",
+        "homepage": "khizar",
+        "support": "khizar"
+    },
+    "name": "meet",
+    "nameSlug": "meet",
+    "classFile": "MeetApp.ts",
+    "description": "testing meet point"
+}
